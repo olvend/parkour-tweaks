@@ -1,0 +1,10 @@
+{
+    "rpo.parkourtweaks": "Parkour Tweaks",
+    
+    "rpo.parkourtweaks.features": "Features",
+    "rpo.parkourtweaks.features.tooltip": "Toggle Features",
+
+    "rpo.parkourtweaks.features.ladder": "Ladder",
+    "rpo.parkourtweaks.features.ladder.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.ladder.disabled": "§cDisabled"
+}

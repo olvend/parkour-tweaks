@@ -1,0 +1,10 @@
+{
+    id: "parkourtweaks",
+    version: 9,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        features: {
+            ladder: ["enabled", "disabled"]
+        }
+    }
+}
