@@ -14,5 +14,9 @@
 
     "rpo.parkourtweaks.features.wall": "Wall",
     "rpo.parkourtweaks.features.wall.enabled": "§aEnabled",
-    "rpo.parkourtweaks.features.wall.disabled": "§cDisabled"
+    "rpo.parkourtweaks.features.wall.disabled": "§cDisabled",
+    
+    "rpo.parkourtweaks.features.cobweb": "Cobweb",
+    "rpo.parkourtweaks.features.cobweb.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.cobweb.disabled": "§cDisabled"
 }
