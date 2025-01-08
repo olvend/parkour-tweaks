@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/template/fence/default/custom_fence_side_alt",
+    "textures": {
+        "texture": "minecraft:block/bamboo_fence"
+    }
+}

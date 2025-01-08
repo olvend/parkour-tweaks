@@ -1,0 +1,3 @@
+{
+    condition: "features.fence_and_fence_gate.enabled"
+}

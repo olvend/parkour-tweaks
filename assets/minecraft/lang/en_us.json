@@ -6,5 +6,9 @@
 
     "rpo.parkourtweaks.features.ladder": "Ladder",
     "rpo.parkourtweaks.features.ladder.enabled": "§aEnabled",
-    "rpo.parkourtweaks.features.ladder.disabled": "§cDisabled"
+    "rpo.parkourtweaks.features.ladder.disabled": "§cDisabled",
+    
+    "rpo.parkourtweaks.features.fence_and_fence_gate": "Fence and Fence Gate",
+    "rpo.parkourtweaks.features.fence_and_fence_gate.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.fence_and_fence_gate.disabled": "§cDisabled"
 }

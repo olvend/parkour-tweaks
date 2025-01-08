@@ -4,7 +4,8 @@
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
         features: {
-            ladder: ["enabled", "disabled"]
+            ladder: ["enabled", "disabled"],
+            fence_and_fence_gate: ["enabled", "disabled"]
         }
     }
 }
