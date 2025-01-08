@@ -10,5 +10,9 @@
     
     "rpo.parkourtweaks.features.fence_and_fence_gate": "Fence and Fence Gate",
     "rpo.parkourtweaks.features.fence_and_fence_gate.enabled": "§aEnabled",
-    "rpo.parkourtweaks.features.fence_and_fence_gate.disabled": "§cDisabled"
+    "rpo.parkourtweaks.features.fence_and_fence_gate.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.wall": "Wall",
+    "rpo.parkourtweaks.features.wall.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.wall.disabled": "§cDisabled"
 }
