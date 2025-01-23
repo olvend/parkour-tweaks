@@ -9,7 +9,8 @@
             wall: ["enabled", "disabled"],
             cobweb: ["enabled", "disabled"],
             lily_pad: ["enabled", "disabled"],
-            cactus: ["enabled", "disabled"]
+            cactus: ["enabled", "disabled"],
+            piston_head: ["enabled", "disabled"]
         }
     }
 }
