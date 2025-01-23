@@ -1,0 +1,3 @@
+{
+    condition: "features.brewing_stand.enabled"
+}

@@ -24,6 +24,10 @@
     "rpo.parkourtweaks.features.lily_pad.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.lily_pad.disabled": "§cDisabled",
 
+    "rpo.parkourtweaks.features.brewing_stand": "Brewing Stand",
+    "rpo.parkourtweaks.features.brewing_stand.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.brewing_stand.disabled": "§cDisabled",
+
     "rpo.parkourtweaks.features.cactus": "Cactus",
     "rpo.parkourtweaks.features.cactus.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.cactus.disabled": "§cDisabled",
