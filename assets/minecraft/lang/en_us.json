@@ -15,6 +15,10 @@
     "rpo.parkourtweaks.features.wall": "Wall",
     "rpo.parkourtweaks.features.wall.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.wall.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.dragon_egg": "Dragon Egg",
+    "rpo.parkourtweaks.features.dragon_egg.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.dragon_egg.disabled": "§cDisabled",
     
     "rpo.parkourtweaks.features.cobweb": "Cobweb",
     "rpo.parkourtweaks.features.cobweb.enabled": "§aEnabled",

@@ -7,6 +7,7 @@
             ladder: ["enabled", "disabled"],
             fence_and_fence_gate: ["enabled", "disabled"],
             wall: ["enabled", "disabled"],
+            dragon_egg: ["enabled", "disabled"],
             cobweb: ["enabled", "disabled"],
             iron_bars: ["enabled", "disabled"],
             lily_pad: ["enabled", "disabled"],
