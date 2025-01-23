@@ -19,6 +19,10 @@
     "rpo.parkourtweaks.features.cobweb": "Cobweb",
     "rpo.parkourtweaks.features.cobweb.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.cobweb.disabled": "§cDisabled",
+    
+    "rpo.parkourtweaks.features.iron_bars": "3D Iron Bars",
+    "rpo.parkourtweaks.features.iron_bars.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.iron_bars.disabled": "§cDisabled",
 
     "rpo.parkourtweaks.features.lily_pad": "Lily Pad",
     "rpo.parkourtweaks.features.lily_pad.enabled": "§aEnabled",
