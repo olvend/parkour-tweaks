@@ -20,6 +20,10 @@
     "rpo.parkourtweaks.features.cobweb.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.cobweb.disabled": "§cDisabled",
 
+    "rpo.parkourtweaks.features.lily_pad": "Lily Pad",
+    "rpo.parkourtweaks.features.lily_pad.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.lily_pad.disabled": "§cDisabled",
+
     "rpo.parkourtweaks.features.cactus": "Cactus",
     "rpo.parkourtweaks.features.cactus.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.cactus.disabled": "§cDisabled"

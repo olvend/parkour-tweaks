@@ -8,6 +8,7 @@
             fence_and_fence_gate: ["enabled", "disabled"],
             wall: ["enabled", "disabled"],
             cobweb: ["enabled", "disabled"],
+            lily_pad: ["enabled", "disabled"],
             cactus: ["enabled", "disabled"]
         }
     }
