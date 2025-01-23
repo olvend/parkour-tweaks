@@ -18,5 +18,9 @@
     
     "rpo.parkourtweaks.features.cobweb": "Cobweb",
     "rpo.parkourtweaks.features.cobweb.enabled": "§aEnabled",
-    "rpo.parkourtweaks.features.cobweb.disabled": "§cDisabled"
+    "rpo.parkourtweaks.features.cobweb.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.cactus": "Cactus",
+    "rpo.parkourtweaks.features.cactus.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.cactus.disabled": "§cDisabled"
 }
