@@ -1,0 +1,4 @@
+{
+    condition: "style.dragon_egg.default",
+    fallbacks: "assets/minecraft/models/block/dragon_egg/border/dragon_egg.json"
+}

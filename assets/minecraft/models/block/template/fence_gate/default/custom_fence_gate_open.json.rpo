@@ -1,0 +1,7 @@
+{
+    condition: "style.fence_and_fence_gate.default",
+    fallbacks: [
+        "assets/minecraft/models/block/template/fence_gate/truemodels/custom_fence_gate_open.json",
+        "assets/minecraft/models/block/template/fence_gate/accurate/custom_fence_gate_open.json"
+    ]
+}

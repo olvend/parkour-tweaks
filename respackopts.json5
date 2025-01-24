@@ -17,6 +17,8 @@
         },
         style: {
             ladder: ["default", "red_ladder"],
+            fence_and_fence_gate: ["default", "truemodels", "accurate"],
+            dragon_egg: ["default", "border"],
             cobweb: ["default", "truemodels", "filled"],
             lily_pad: ["default", "accurate"],
             brewing_stand: ["default", "accurate"]

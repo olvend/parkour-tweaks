@@ -3,6 +3,7 @@
     "textures": {
         "particle": "minecraft:block/bamboo_fence_gate_particle",
         "gate": "minecraft:block/bamboo_fence_gate",
-        "fence": "minecraft:block/bamboo_fence"
+        "fence": "minecraft:block/bamboo_fence",
+        "fence_inner": "minecraft:block/bamboo_fence/bamboo_fence_inner"
     }
 }

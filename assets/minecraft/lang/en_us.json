@@ -52,6 +52,15 @@
     "rpo.parkourtweaks.style.ladder.default": "Default",
     "rpo.parkourtweaks.style.ladder.red_ladder": "Red Ladder",
 
+    "rpo.parkourtweaks.style.fence_and_fence_gate": "Fence and Fence Gate",
+    "rpo.parkourtweaks.style.fence_and_fence_gate.default": "Default",
+    "rpo.parkourtweaks.style.fence_and_fence_gate.truemodels": "TrueModels",
+    "rpo.parkourtweaks.style.fence_and_fence_gate.accurate": "Accurate",
+
+    "rpo.parkourtweaks.style.dragon_egg": "Dragon Egg",
+    "rpo.parkourtweaks.style.dragon_egg.default": "Default",
+    "rpo.parkourtweaks.style.dragon_egg.border": "Border",
+
     "rpo.parkourtweaks.style.cobweb": "Cobweb",
     "rpo.parkourtweaks.style.cobweb.default": "Default",
     "rpo.parkourtweaks.style.cobweb.truemodels": "TrueModels",
