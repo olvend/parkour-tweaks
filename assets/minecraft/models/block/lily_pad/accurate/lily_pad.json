@@ -1,0 +1,21 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/lily_pad/accurate/lily_pad",
+        "texture": "block/lily_pad/accurate/lily_pad"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 1.5, 15],
+			"faces": {
+				"north": { "uv": [ 15,  2,  1,  1 ], "texture": "#texture", "tintindex": 0 },
+                "south": { "uv": [  1, 14, 15, 15 ], "texture": "#texture", "tintindex": 0 },
+				"east":  { "uv": [ 14,  1, 15, 15 ], "rotation": 90, "texture": "#texture", "tintindex": 0 },
+				"west":  { "uv": [  1,  1,  2, 15 ], "rotation": 270, "texture": "#texture", "tintindex": 0 },
+				"up":    { "uv": [  1,  1, 15, 15 ], "texture": "#texture", "tintindex": 0 },
+				"down":  { "uv": [  1, 15, 15,  1 ], "texture": "#texture", "cullface": "down", "tintindex": 0 }
+			}
+		}
+	]
+}

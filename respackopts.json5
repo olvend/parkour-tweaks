@@ -14,6 +14,12 @@
             brewing_stand: ["enabled", "disabled"],
             cactus: ["enabled", "disabled"],
             piston_head: ["enabled", "disabled"]
+        },
+        style: {
+            ladder: ["default", "red_ladder"],
+            cobweb: ["default", "truemodels", "filled"],
+            lily_pad: ["default", "accurate"],
+            brewing_stand: ["default", "accurate"]
         }
     }
 }

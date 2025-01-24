@@ -1,0 +1,4 @@
+{
+    condition: "style.brewing_stand.default",
+    fallback: "assets/minecraft/models/block/brewing_stand/accurate/brewing_stand_bottle2.json"
+}

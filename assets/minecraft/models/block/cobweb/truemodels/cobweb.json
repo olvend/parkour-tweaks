@@ -1,0 +1,83 @@
+{
+	"parent": "block/template/filled",
+	"textures": {
+		"particle": "block/cobweb",
+		"texture": "block/cobweb"
+	},
+	"elements": [
+		{
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"shade": false,
+			"faces": {
+				"north": {"texture": "#texture", "cullface": "north" },
+				"south": {"texture": "#texture", "cullface": "south" },
+				"east":  {"texture": "#texture", "cullface": "east" },
+				"west":  {"texture": "#texture", "cullface": "west" },
+				"up":    {"texture": "#texture", "cullface": "up" },
+				"down":  {"texture": "#texture", "cullface": "down" }
+			}
+		},
+		{
+			"from": [ 8, 0, 0 ],
+			"to": [ 8, 16, 16 ],
+			"shade": false,
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 45, "rescale": true },
+			"faces": {
+				"east": { "rotation": 90, "texture": "#texture" },
+				"west": { "rotation": 90, "texture": "#texture" }
+			}
+		},
+		{
+			"from": [ 8, 0, 0 ],
+			"to": [ 8, 16, 16 ],
+			"shade": false,
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -45, "rescale": true },
+			"faces": {
+				"east": { "rotation": 90, "texture": "#texture" },
+				"west": { "rotation": 90, "texture": "#texture" }
+			}
+		},
+		{
+			"from": [ 0, 0, 8 ],
+			"to": [ 16, 16, 8 ],
+			"shade": false,
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 45, "rescale": true },
+			"faces": {
+				"north": { "rotation": 180, "texture": "#texture" },
+				"south": { "rotation": 180, "texture": "#texture" }
+			}
+		},
+		
+		{
+			"from": [ 0, 0, 8 ],
+			"to": [ 16, 16, 8 ],
+			"shade": false,
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -45, "rescale": true },
+			"faces": {
+				"north": { "rotation": 180, "texture": "#texture" },
+				"south": { "rotation": 180, "texture": "#texture" }
+			}
+		},
+		{
+			"from": [ 0, 0, 8 ],
+			"to": [ 16, 16, 8 ],
+			"shade": false,
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": -45, "rescale": true },
+			"faces": {
+				"north": { "rotation": 270, "texture": "#texture" },
+				"south": { "rotation": 270, "texture": "#texture" }
+			}
+		},
+		{
+			"from": [ 8, 0, 0 ],
+			"to": [ 8, 16, 16 ],
+			"shade": false,
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": -45, "rescale": true },
+			"faces": {
+				"east": { "rotation": 270, "texture": "#texture" },
+				"west": { "rotation": 270, "texture": "#texture" }
+			}
+		}
+	]
+}

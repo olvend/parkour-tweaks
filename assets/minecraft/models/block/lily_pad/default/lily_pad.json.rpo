@@ -1,0 +1,4 @@
+{
+    condition: "style.lily_pad.default",
+    fallback: "assets/minecraft/models/block/lily_pad/accurate/lily_pad.json"
+}

@@ -1,0 +1,15 @@
+{
+	"textures": {
+		"particle": "block/brewing_stand",
+		"bottles": "block/brewing_stand/accurate/brewing_stand_bottles"
+	},
+	"elements": [
+		{
+			"from": [ 2, 2.02, 2 ],
+			"to": [ 6, 2.02, 6 ],
+			"faces": {
+				"up": { "uv": [ 2, 2, 6, 6 ], "texture": "#bottles" }
+			}
+		}
+	]
+}

@@ -1,0 +1,4 @@
+{
+    condition: "style.ladder.default",
+    fallback: "assets/minecraft/models/block/ladder/red_ladder/ladder.json"
+}

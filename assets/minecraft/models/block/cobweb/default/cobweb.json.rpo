@@ -1,0 +1,7 @@
+{
+    condition: "style.cobweb.default",
+    fallbacks: [
+        "assets/minecraft/models/block/cobweb/truemodels/cobweb.json",
+        "assets/minecraft/models/block/cobweb/filled/cobweb.json"
+    ]
+}
