@@ -12,7 +12,8 @@
             lily_pad: ["enabled", "disabled"],
             brewing_stand: ["enabled", "disabled"],
             cactus: ["enabled", "disabled"],
-            piston_head: ["enabled", "disabled"]
+            piston_head: ["enabled", "disabled"],
+            pointed_dripstone: ["enabled", "disabled"]
         },
         style: {
             ladder: ["default", "red_ladder"],

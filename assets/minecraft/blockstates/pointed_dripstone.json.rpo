@@ -1,0 +1,3 @@
+{
+    condition: "features.pointed_dripstone.enabled"
+}

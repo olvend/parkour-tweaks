@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "thickness=base": {
+            "model": "minecraft:block/pointed_dripstone/default/pointed_dripstone_base"
+        },
+        "thickness=frustum": {
+            "model": "minecraft:block/pointed_dripstone/default/pointed_dripstone_frustum"
+        },
+        "thickness=middle": {
+            "model": "minecraft:block/pointed_dripstone/default/pointed_dripstone_middle"
+        },
+        "thickness=tip,vertical_direction=down": {
+            "model": "minecraft:block/pointed_dripstone/default/pointed_dripstone_tip_down"
+        },
+        "thickness=tip_merge": {
+            "model": "minecraft:block/pointed_dripstone/default/pointed_dripstone_tip_merge"
+        },
+        "thickness=tip,vertical_direction=up": {
+            "model": "minecraft:block/pointed_dripstone/default/pointed_dripstone_tip_up"
+        }
+    }
+}
