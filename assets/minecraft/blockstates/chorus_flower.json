@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": {
+            "model": "minecraft:block/chorus_flower/default/chorus_flower"
+        },
+        "age=5": {
+            "model": "minecraft:block/chorus_flower/default/chorus_flower_dead"
+        }
+    }
+}

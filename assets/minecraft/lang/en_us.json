@@ -56,6 +56,14 @@
     "rpo.parkourtweaks.features.chain.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.chain.disabled": "§cDisabled",
 
+    "rpo.parkourtweaks.features.amethyst_cluster": "Amethyst Cluster",
+    "rpo.parkourtweaks.features.amethyst_cluster.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.amethyst_cluster.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.chorus_plant": "Chorus Plant",
+    "rpo.parkourtweaks.features.chorus_plant.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.chorus_plant.disabled": "§cDisabled",
+
     "rpo.parkourtweaks.features.honey_block": "Honey Block",
     "rpo.parkourtweaks.features.honey_block.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.honey_block.disabled": "§cDisabled",

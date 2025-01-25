@@ -1,0 +1,20 @@
+{
+	"textures": {
+		"particle": "block/amethyst_block",
+		"texture": "block/amethyst_block"
+	},
+	"elements": [
+		{
+			"from": [ 3, 0, 3 ],
+			"to": [ 13, 7, 13 ],
+			"faces": {
+				"north": { "texture": "#texture" },
+				"south": { "texture": "#texture" },
+				"east":  { "texture": "#texture" },
+				"west":  { "texture": "#texture" },
+				"up":    { "texture": "#texture" },
+				"down":  { "texture": "#texture", "cullface": "down" }
+			}
+		}
+	]
+}
