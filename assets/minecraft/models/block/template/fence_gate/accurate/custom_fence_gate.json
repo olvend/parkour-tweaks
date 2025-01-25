@@ -89,34 +89,30 @@
 			"from": [ 2, 0, 6 ],
 			"to": [ 14, 2, 10 ],
 			"faces": {
-				"north": { "uv": [ 2, 2,  4, 14 ], "rotation": 90, "texture": "#fence" },
-				"south": { "uv": [ 0, 2,  2, 14 ], "rotation": 270, "texture": "#fence" },
-				"up":    { "uv": [ 2, 9, 14, 13 ], "texture": "#gate" },
-				"down":  { "uv": [ 0, 2,  4, 14 ], "rotation": 270, "texture": "#fence", "cullface": "down" }
+				"north": { "uv": [ 2, 2, 4, 14 ], "rotation": 90, "texture": "#fence" },
+				"south": { "uv": [ 0, 2, 2, 14 ], "rotation": 270, "texture": "#fence" },
+				"up":    { "uv": [ 0, 4, 4, 12 ], "rotation": 270, "texture": "#fence_inner" },
+				"down":  { "uv": [ 0, 2, 4, 14 ], "rotation": 270, "texture": "#fence", "cullface": "down" }
 			}
 		},
 		{
 			"from": [ 4, 2, 6 ],
 			"to": [ 12, 4, 10 ],
 			"faces": {
-				"north": { "uv": [ 0,  4,  2, 12 ], "rotation": 90, "texture": "#fence" },
-				"south": { "uv": [ 2,  4,  4, 12 ], "rotation": 270, "texture": "#fence" },
-				"east":  { "uv": [ 4,  0,  8,  2 ], "texture": "#fence" },
-				"west":  { "uv": [ 4,  0,  8,  2 ], "texture": "#fence" },
-				"up":    { "uv": [ 0,  4,  4, 12 ], "rotation": 270, "texture": "#fence" },
-				"down":  { "uv": [ 4, 10, 12, 14 ], "rotation": 270, "texture": "#gate" }
+				"north": { "uv": [ 0, 4, 2, 12 ], "rotation": 90, "texture": "#fence" },
+				"south": { "uv": [ 2, 4, 4, 12 ], "rotation": 270, "texture": "#fence" },
+				"east":  { "uv": [ 4, 0, 8,  2 ], "texture": "#fence" },
+				"west":  { "uv": [ 4, 0, 8,  2 ], "texture": "#fence" }
 			}
 		},
 		{
 			"from": [ 4, 4, 6 ],
 			"to": [ 12, 6, 10 ],
 			"faces": {
-				"north": { "uv": [ 2, 4,  4, 12 ], "rotation": 90, "texture": "#fence" },
-				"south": { "uv": [ 0, 4,  2, 12 ], "rotation": 270, "texture": "#fence" },
-				"east":  { "uv": [ 4, 2,  8,  4 ], "texture": "#fence" },
-				"west":  { "uv": [ 4, 2,  8,  4 ], "texture": "#fence" },
-				"up":    { "uv": [ 4, 9, 12, 12 ], "texture": "#gate" },
-				"down":  { "uv": [ 0, 4,  4, 12 ], "rotation": 270, "texture": "#fence" }
+				"north": { "uv": [ 2, 4, 4, 12 ], "rotation": 90, "texture": "#fence" },
+				"south": { "uv": [ 0, 4, 2, 12 ], "rotation": 270, "texture": "#fence" },
+				"east":  { "uv": [ 4, 2, 8,  4 ], "texture": "#fence" },
+				"west":  { "uv": [ 4, 2, 8,  4 ], "texture": "#fence" }
 			}
 		},
 		{
