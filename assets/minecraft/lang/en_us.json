@@ -51,6 +51,10 @@
     "rpo.parkourtweaks.features.lightning_rod": "Lightning Rod",
     "rpo.parkourtweaks.features.lightning_rod.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.lightning_rod.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.chain": "Chain",
+    "rpo.parkourtweaks.features.chain.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.chain.disabled": "§cDisabled",
     
     
     "rpo.parkourtweaks.style": "Style",
@@ -81,6 +85,11 @@
     "rpo.parkourtweaks.style.brewing_stand": "Brewing Stand",
     "rpo.parkourtweaks.style.brewing_stand.default": "Default",
     "rpo.parkourtweaks.style.brewing_stand.accurate": "Accurate",
+
+    "rpo.parkourtweaks.style.chain": "Chain",
+    "rpo.parkourtweaks.style.chain.default": "Default",
+    "rpo.parkourtweaks.style.chain.threed": "3D",
+    "rpo.parkourtweaks.style.chain.accurate_threed": "Accurate 3D",
 
 
     "rpo.parkourtweaks.extra": "Extra",

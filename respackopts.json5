@@ -15,7 +15,8 @@
             piston_head: ["enabled", "disabled"],
             pointed_dripstone: ["enabled", "disabled"],
             end_rod: ["enabled", "disabled"],
-            lightning_rod: ["enabled", "disabled"]
+            lightning_rod: ["enabled", "disabled"],
+            chain: ["enabled", "disabled"]
         },
         style: {
             ladder: ["default", "red_ladder"],
@@ -23,7 +24,8 @@
             dragon_egg: ["default", "border"],
             cobweb: ["default", "truemodels", "filled"],
             lily_pad: ["default", "accurate"],
-            brewing_stand: ["default", "accurate"]
+            brewing_stand: ["default", "accurate"],
+            chain: ["default", "threed", "accurate_threed"]
         },
         extra: {
             hide_open_fence_gate: ["disabled", "enabled"],
