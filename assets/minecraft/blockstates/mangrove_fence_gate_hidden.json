@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "open=true": {
+            "model": "minecraft:block/mangrove_fence_gate/hidden/mangrove_fence_gate_open"
+        }
+    }
+}

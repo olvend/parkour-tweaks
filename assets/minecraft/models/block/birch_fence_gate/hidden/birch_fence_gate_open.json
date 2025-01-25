@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/template/fence_gate/hidden/fence_gate_open",
+    "textures": {
+        "particle": "minecraft:block/birch_planks"
+    }
+}

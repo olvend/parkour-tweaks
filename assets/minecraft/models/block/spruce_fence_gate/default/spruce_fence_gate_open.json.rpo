@@ -1,0 +1,4 @@
+{
+    condition: "extra.hide_open_fence_gate.disabled",
+    fallback: "assets/minecraft/models/block/spruce_fence_gate/hidden/spruce_fence_gate_open.json"
+}

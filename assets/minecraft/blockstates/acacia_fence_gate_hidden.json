@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "open=true": {
+            "model": "minecraft:block/acacia_fence_gate/hidden/acacia_fence_gate_open"
+        }
+    }
+}

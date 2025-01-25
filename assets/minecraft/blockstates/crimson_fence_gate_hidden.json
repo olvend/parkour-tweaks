@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "open=true": {
+            "model": "minecraft:block/crimson_fence_gate/hidden/crimson_fence_gate_open"
+        }
+    }
+}

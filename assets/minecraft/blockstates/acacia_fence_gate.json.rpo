@@ -1,3 +1,4 @@
 {
-    condition: "features.fence_and_fence_gate.enabled"
+    condition: "features.fence_and_fence_gate.enabled",
+    fallback: "assets/minecraft/blockstates/acacia_fence_gate_hidden.json"
 }

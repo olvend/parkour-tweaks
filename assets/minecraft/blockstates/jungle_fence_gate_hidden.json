@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "open=true": {
+            "model": "minecraft:block/jungle_fence_gate/hidden/jungle_fence_gate_open"
+        }
+    }
+}

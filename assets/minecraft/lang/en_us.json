@@ -72,5 +72,13 @@
 
     "rpo.parkourtweaks.style.brewing_stand": "Brewing Stand",
     "rpo.parkourtweaks.style.brewing_stand.default": "Default",
-    "rpo.parkourtweaks.style.brewing_stand.accurate": "Accurate"
+    "rpo.parkourtweaks.style.brewing_stand.accurate": "Accurate",
+
+
+    "rpo.parkourtweaks.extra": "Extra",
+    "rpo.parkourtweaks.extra.tooltip": "Extra",
+
+    "rpo.parkourtweaks.extra.hide_open_fence_gate": "Hide Open Fence Gate",
+    "rpo.parkourtweaks.extra.hide_open_fence_gate.enabled": "§aEnabled",
+    "rpo.parkourtweaks.extra.hide_open_fence_gate.disabled": "§cDisabled"
 }

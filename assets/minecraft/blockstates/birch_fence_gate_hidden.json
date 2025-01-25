@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "open=true": {
+            "model": "minecraft:block/birch_fence_gate/hidden/birch_fence_gate_open"
+        }
+    }
+}

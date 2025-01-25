@@ -1,0 +1,3 @@
+{
+    condition: "extra.hide_open_fence_gate.enabled"
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "open=true": {
+            "model": "minecraft:block/oak_fence_gate/hidden/oak_fence_gate_open"
+        }
+    }
+}

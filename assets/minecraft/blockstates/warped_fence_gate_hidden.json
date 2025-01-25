@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "open=true": {
+            "model": "minecraft:block/warped_fence_gate/hidden/warped_fence_gate_open"
+        }
+    }
+}

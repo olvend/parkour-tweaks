@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "open=true": {
+            "model": "minecraft:block/spruce_fence_gate/hidden/spruce_fence_gate_open"
+        }
+    }
+}

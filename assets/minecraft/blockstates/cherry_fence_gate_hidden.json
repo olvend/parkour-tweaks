@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "open=true": {
+            "model": "minecraft:block/cherry_fence_gate/hidden/cherry_fence_gate_open"
+        }
+    }
+}

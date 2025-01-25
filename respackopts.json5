@@ -22,6 +22,9 @@
             cobweb: ["default", "truemodels", "filled"],
             lily_pad: ["default", "accurate"],
             brewing_stand: ["default", "accurate"]
+        },
+        extra: {
+            hide_open_fence_gate: ["disabled", "enabled"]
         }
     }
 }
