@@ -23,10 +23,6 @@
     "rpo.parkourtweaks.features.cobweb": "Cobweb",
     "rpo.parkourtweaks.features.cobweb.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.cobweb.disabled": "§cDisabled",
-    
-    "rpo.parkourtweaks.features.iron_bars": "3D Iron Bars",
-    "rpo.parkourtweaks.features.iron_bars.enabled": "§aEnabled",
-    "rpo.parkourtweaks.features.iron_bars.disabled": "§cDisabled",
 
     "rpo.parkourtweaks.features.lily_pad": "Lily Pad",
     "rpo.parkourtweaks.features.lily_pad.enabled": "§aEnabled",
@@ -80,5 +76,9 @@
 
     "rpo.parkourtweaks.extra.hide_open_fence_gate": "Hide Open Fence Gate",
     "rpo.parkourtweaks.extra.hide_open_fence_gate.enabled": "§aEnabled",
-    "rpo.parkourtweaks.extra.hide_open_fence_gate.disabled": "§cDisabled"
+    "rpo.parkourtweaks.extra.hide_open_fence_gate.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.extra.iron_bars": "3D Iron Bars",
+    "rpo.parkourtweaks.extra.iron_bars.enabled": "§aEnabled",
+    "rpo.parkourtweaks.extra.iron_bars.disabled": "§cDisabled"
 }

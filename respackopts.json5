@@ -9,7 +9,6 @@
             wall: ["enabled", "disabled"],
             dragon_egg: ["enabled", "disabled"],
             cobweb: ["enabled", "disabled"],
-            iron_bars: ["enabled", "disabled"],
             lily_pad: ["enabled", "disabled"],
             brewing_stand: ["enabled", "disabled"],
             cactus: ["enabled", "disabled"],
@@ -24,7 +23,8 @@
             brewing_stand: ["default", "accurate"]
         },
         extra: {
-            hide_open_fence_gate: ["disabled", "enabled"]
+            hide_open_fence_gate: ["disabled", "enabled"],
+            iron_bars: ["enabled", "disabled"]
         }
     }
 }
