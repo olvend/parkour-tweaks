@@ -1,0 +1,3 @@
+{
+    condition: "features.honey_block.enabled"
+}

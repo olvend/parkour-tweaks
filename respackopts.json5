@@ -16,7 +16,10 @@
             pointed_dripstone: ["enabled", "disabled"],
             end_rod: ["enabled", "disabled"],
             lightning_rod: ["enabled", "disabled"],
-            chain: ["enabled", "disabled"]
+            chain: ["enabled", "disabled"],
+            honey_block: ["enabled", "disabled"],
+            bell: ["enabled", "disabled"],
+            lectern: ["enabled", "disabled"]
         },
         style: {
             ladder: ["default", "red_ladder"],

@@ -55,6 +55,18 @@
     "rpo.parkourtweaks.features.chain": "Chain",
     "rpo.parkourtweaks.features.chain.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.chain.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.honey_block": "Honey Block",
+    "rpo.parkourtweaks.features.honey_block.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.honey_block.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.bell": "Bell",
+    "rpo.parkourtweaks.features.bell.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.bell.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.lectern": "Lectern",
+    "rpo.parkourtweaks.features.lectern.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.lectern.disabled": "§cDisabled",
     
     
     "rpo.parkourtweaks.style": "Style",
