@@ -13,7 +13,9 @@
             brewing_stand: ["enabled", "disabled"],
             cactus: ["enabled", "disabled"],
             piston_head: ["enabled", "disabled"],
-            pointed_dripstone: ["enabled", "disabled"]
+            pointed_dripstone: ["enabled", "disabled"],
+            end_rod: ["enabled", "disabled"],
+            lightning_rod: ["enabled", "disabled"]
         },
         style: {
             ladder: ["default", "red_ladder"],

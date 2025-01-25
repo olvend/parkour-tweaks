@@ -43,6 +43,14 @@
     "rpo.parkourtweaks.features.pointed_dripstone": "Pointed Dripstone",
     "rpo.parkourtweaks.features.pointed_dripstone.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.pointed_dripstone.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.end_rod": "End Rod",
+    "rpo.parkourtweaks.features.end_rod.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.end_rod.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.lightning_rod": "Lightning Rod",
+    "rpo.parkourtweaks.features.lightning_rod.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.lightning_rod.disabled": "§cDisabled",
     
     
     "rpo.parkourtweaks.style": "Style",
