@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/template/turtle_egg/default/two_turtle_eggs",
+    "textures": {
+        "all": "minecraft:block/turtle_egg"
+    }
+}

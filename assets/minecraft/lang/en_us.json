@@ -64,6 +64,14 @@
     "rpo.parkourtweaks.features.chorus_plant.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.chorus_plant.disabled": "§cDisabled",
 
+    "rpo.parkourtweaks.features.sea_pickle": "Sea Pickle",
+    "rpo.parkourtweaks.features.sea_pickle.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.sea_pickle.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.turtle_egg": "Turtle Egg",
+    "rpo.parkourtweaks.features.turtle_egg.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.turtle_egg.disabled": "§cDisabled",
+
     "rpo.parkourtweaks.features.honey_block": "Honey Block",
     "rpo.parkourtweaks.features.honey_block.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.honey_block.disabled": "§cDisabled",

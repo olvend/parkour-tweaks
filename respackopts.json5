@@ -19,6 +19,8 @@
             chain: ["enabled", "disabled"],
             amethyst_cluster: ["enabled", "disabled"],
             chorus_plant: ["enabled", "disabled"],
+            sea_pickle: ["enabled", "disabled"],
+            turtle_egg: ["enabled", "disabled"],
             honey_block: ["enabled", "disabled"],
             bell: ["enabled", "disabled"],
             lectern: ["enabled", "disabled"]

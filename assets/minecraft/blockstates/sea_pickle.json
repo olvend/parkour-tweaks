@@ -1,0 +1,44 @@
+{
+    "variants": {
+        "pickles=1,waterlogged=false": [
+            {
+            "model": "minecraft:block/sea_pickle/default/dead_sea_pickle"
+            }
+        ],
+        "pickles=1,waterlogged=true": [
+            {
+            "model": "minecraft:block/sea_pickle/default/sea_pickle"
+            }
+        ],
+        "pickles=2,waterlogged=false": [
+            {
+            "model": "minecraft:block/sea_pickle/default/two_dead_sea_pickles"
+            }
+        ],
+        "pickles=2,waterlogged=true": [
+            {
+            "model": "minecraft:block/sea_pickle/default/two_sea_pickles"
+            }
+        ],
+        "pickles=3,waterlogged=false": [
+            {
+            "model": "minecraft:block/sea_pickle/default/three_dead_sea_pickles"
+            }
+        ],
+        "pickles=3,waterlogged=true": [
+            {
+            "model": "minecraft:block/sea_pickle/default/three_sea_pickles"
+            }
+        ],
+        "pickles=4,waterlogged=false": [
+            {
+            "model": "minecraft:block/sea_pickle/default/four_dead_sea_pickles"
+            }
+        ],
+        "pickles=4,waterlogged=true": [
+            {
+            "model": "minecraft:block/sea_pickle/default/four_sea_pickles"
+            }
+        ]
+    }
+}
