@@ -26,7 +26,9 @@
             bell: ["enabled", "disabled"],
             lectern: ["enabled", "disabled"],
             azalea_bush: ["enabled", "disabled"],
-            sweet_berry_bush: ["enabled", "disabled"]
+            dripleaf: ["enabled", "disabled"],
+            sweet_berry_bush: ["enabled", "disabled"],
+            campfire: ["enabled", "disabled"]
         },
         style: {
             ladder: ["default", "red_ladder"],

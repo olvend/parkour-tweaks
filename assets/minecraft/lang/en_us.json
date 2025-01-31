@@ -92,9 +92,17 @@
     "rpo.parkourtweaks.features.azalea_bush.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.azalea_bush.disabled": "§cDisabled",
 
+    "rpo.parkourtweaks.features.dripleaf": "Dripleaf",
+    "rpo.parkourtweaks.features.dripleaf.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.dripleaf.disabled": "§cDisabled",
+
     "rpo.parkourtweaks.features.sweet_berry_bush": "Sweet Berry Bush",
     "rpo.parkourtweaks.features.sweet_berry_bush.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.sweet_berry_bush.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.campfire": "Campfire",
+    "rpo.parkourtweaks.features.campfire.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.campfire.disabled": "§cDisabled",
     
     
     "rpo.parkourtweaks.style": "Style",

@@ -1,0 +1,3 @@
+{
+    condition: "features.campfire.enabled"
+}
