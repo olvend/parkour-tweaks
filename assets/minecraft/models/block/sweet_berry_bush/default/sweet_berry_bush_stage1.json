@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "minecraft:block/sweet_berry_bush/default/sweet_berry_bush_stage1"
+  }
+}

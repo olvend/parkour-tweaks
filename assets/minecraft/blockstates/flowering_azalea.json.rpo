@@ -1,0 +1,3 @@
+{
+    condition: "features.azalea_bush.enabled"
+}

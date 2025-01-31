@@ -1,0 +1,3 @@
+{
+    condition: "features.sweet_berry_bush.enabled"
+}

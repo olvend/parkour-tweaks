@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:block/template/azalea/default/azalea",
+    "textures": {
+        "particle": "minecraft:block/azalea_plant",
+        "side": "minecraft:block/azalea_side",
+        "top": "minecraft:block/azalea_top",
+        "stem": "minecraft:block/stripped_spruce_log",
+        "bottom": "minecraft:block/stripped_spruce_log_top"
+    }
+}

@@ -87,6 +87,14 @@
     "rpo.parkourtweaks.features.lectern": "Lectern",
     "rpo.parkourtweaks.features.lectern.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.lectern.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.azalea_bush": "Azalea",
+    "rpo.parkourtweaks.features.azalea_bush.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.azalea_bush.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.sweet_berry_bush": "Sweet Berry Bush",
+    "rpo.parkourtweaks.features.sweet_berry_bush.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.sweet_berry_bush.disabled": "§cDisabled",
     
     
     "rpo.parkourtweaks.style": "Style",
