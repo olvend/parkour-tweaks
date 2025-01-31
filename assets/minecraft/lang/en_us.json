@@ -103,6 +103,10 @@
     "rpo.parkourtweaks.features.campfire": "Campfire",
     "rpo.parkourtweaks.features.campfire.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.campfire.disabled": "§cDisabled",
+
+    "rpo.parkourtweaks.features.sculk_sensor_and_shrieker": "Sculk Sensor and Shrieker",
+    "rpo.parkourtweaks.features.sculk_sensor_and_shrieker.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.sculk_sensor_and_shrieker.disabled": "§cDisabled",
     
     
     "rpo.parkourtweaks.style": "Style",

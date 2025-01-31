@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/template/sculk_shrieker/default/sculk_shrieker",
+    "textures": {
+        "top": "minecraft:block/sculk_shrieker/default/sculk_shrieker_inner_top",
+        "bottom": "minecraft:block/sculk_shrieker_bottom",
+        "particle": "minecraft:block/sculk_shrieker_bottom",
+        "side": "minecraft:block/sculk_shrieker_side"
+    }
+}

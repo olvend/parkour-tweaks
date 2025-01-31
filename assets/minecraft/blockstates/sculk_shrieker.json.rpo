@@ -1,0 +1,3 @@
+{
+    condition: "features.sculk_sensor_and_shrieker.enabled"
+}

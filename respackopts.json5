@@ -28,7 +28,8 @@
             azalea_bush: ["enabled", "disabled"],
             dripleaf: ["enabled", "disabled"],
             sweet_berry_bush: ["enabled", "disabled"],
-            campfire: ["enabled", "disabled"]
+            campfire: ["enabled", "disabled"],
+            sculk_sensor_and_shrieker: ["enabled", "disabled"]
         },
         style: {
             ladder: ["default", "red_ladder"],

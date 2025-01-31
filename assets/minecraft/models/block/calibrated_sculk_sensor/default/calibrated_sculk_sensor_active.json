@@ -1,0 +1,10 @@
+{
+    "parent": "block/template/sculk_sensor/default/sculk_sensor",
+    "textures": {
+        "particle": "block/sculk_sensor_bottom",
+		"bottom": "block/sculk_sensor_bottom",
+        "top": "block/calibrated_sculk_sensor_top",
+        "side": "block/sculk_sensor/default/sculk_sensor_side_active",
+        "calibrated_side": "block/calibrated_sculk_sensor_input_side"
+    }
+}
