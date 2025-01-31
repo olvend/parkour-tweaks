@@ -64,6 +64,10 @@
     "rpo.parkourtweaks.features.chorus_plant.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.chorus_plant.disabled": "§cDisabled",
 
+    "rpo.parkourtweaks.features.candle": "Candle",
+    "rpo.parkourtweaks.features.candle.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.candle.disabled": "§cDisabled",
+
     "rpo.parkourtweaks.features.sea_pickle": "Sea Pickle",
     "rpo.parkourtweaks.features.sea_pickle.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.sea_pickle.disabled": "§cDisabled",
