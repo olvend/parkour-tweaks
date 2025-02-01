@@ -1,0 +1,4 @@
+{
+    condition: "features.vine.enabled & !style.vine.threed",
+    fallback: "assets/minecraft/blockstates/vine3d.json"
+}

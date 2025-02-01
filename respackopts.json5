@@ -12,6 +12,7 @@
             lily_pad: ["enabled", "disabled"],
             brewing_stand: ["enabled", "disabled"],
             cactus: ["enabled", "disabled"],
+            vine: ["enabled", "disabled"],
             piston_head: ["enabled", "disabled"],
             pointed_dripstone: ["enabled", "disabled"],
             end_rod: ["enabled", "disabled"],
@@ -38,6 +39,7 @@
             cobweb: ["default", "truemodels", "filled"],
             lily_pad: ["default", "accurate"],
             brewing_stand: ["default", "accurate"],
+            vine: ["default", "threed"],
             chain: ["default", "threed", "accurate_threed"]
         },
         extra: {

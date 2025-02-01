@@ -1,0 +1,21 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/vine",
+		"vine": "block/vine"
+	},
+	"elements": [
+		{
+			"from": [ 0, 3, 0 ],
+			"to": [ 0.5, 4, 0.5 ],
+			"faces": {
+				"north": { "uv": [ 0.75, 12.25, 0.25, 12.75 ], "texture": "#vine", "cullface": "north", "tintindex": 0 },
+				"south": { "uv": [ 0.25, 12.25, 0.75, 12.75 ], "texture": "#vine", "tintindex": 0 },
+				"east":  { "uv": [ 0.25, 12.25, 0.75, 12.75 ], "texture": "#vine", "tintindex": 0 },
+				"west":  { "uv": [ 0.25, 12.25, 0.75, 12.75 ], "texture": "#vine", "tintindex": 0 },
+				"up":    { "uv": [ 0.25, 12.25, 0.75, 12.75 ], "texture": "#vine", "tintindex": 0 },
+				"down":  { "uv": [ 0.25, 12.25, 0.75, 12.75 ], "texture": "#vine", "tintindex": 0 }
+			}
+		}
+	]
+}

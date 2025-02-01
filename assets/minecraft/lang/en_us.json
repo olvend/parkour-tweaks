@@ -36,6 +36,10 @@
     "rpo.parkourtweaks.features.cactus.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.cactus.disabled": "§cDisabled",
 
+    "rpo.parkourtweaks.features.vine": "Vine",
+    "rpo.parkourtweaks.features.vine.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.vine.disabled": "§cDisabled",
+
     "rpo.parkourtweaks.features.piston_head": "Piston Head",
     "rpo.parkourtweaks.features.piston_head.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.piston_head.disabled": "§cDisabled",
@@ -137,6 +141,10 @@
     "rpo.parkourtweaks.style.brewing_stand": "Brewing Stand",
     "rpo.parkourtweaks.style.brewing_stand.default": "Default",
     "rpo.parkourtweaks.style.brewing_stand.accurate": "Accurate",
+
+    "rpo.parkourtweaks.style.vine": "Vine",
+    "rpo.parkourtweaks.style.vine.default": "Default",
+    "rpo.parkourtweaks.style.vine.threed": "3D",
 
     "rpo.parkourtweaks.style.chain": "Chain",
     "rpo.parkourtweaks.style.chain.default": "Default",
