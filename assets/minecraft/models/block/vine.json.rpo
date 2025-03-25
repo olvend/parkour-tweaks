@@ -1,4 +1,0 @@
-{
-    condition: "extra.consistent_vine_colors.disabled",
-    fallback: "assets/minecraft/models/block/vine/vanilla/vine.json"
-}
