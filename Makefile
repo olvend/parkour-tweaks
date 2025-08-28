@@ -8,7 +8,11 @@ OUT_PATH := $(OUT_DIR)/$(ZIP_NAME)
 all: clean zip
 
 zip: | $(OUT_DIR)
-	git ls-files -co --exclude-standard -z | grep -vz "^Makefile$$" | xargs -0 zip -r "$(OUT_PATH)"
+	git ls-files -co --exclude-standard -z | \
+	tr '\0' '\n' | \
+	grep -vFf ".packignore" | \
+	tr '\n' '\0' | \
+	xargs -0 zip -r "$(OUT_PATH)"
 
 clean:
 	rm -f "$(OUT_PATH)"
