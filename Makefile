@@ -1,4 +1,4 @@
-VERSION := 2.1.1
+VERSION := 2.1.2
 ZIP_NAME := Parkour Tweaks $(VERSION).zip
 OUT_DIR := out
 OUT_PATH := $(OUT_DIR)/$(ZIP_NAME)
