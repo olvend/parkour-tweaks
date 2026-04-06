@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template/door/default/door_bottom_right",
+  "textures": {
+    "bottom": "minecraft:block/mangrove_door_bottom",
+    "top": "minecraft:block/mangrove_door_top"
+  }
+}

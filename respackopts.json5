@@ -14,6 +14,7 @@
             cactus: ["enabled", "disabled"],
             vine: ["enabled", "disabled"],
             piston_head: ["enabled", "disabled"],
+            door: ["enabled", "disabled"],
             pointed_dripstone: ["enabled", "disabled"],
             end_rod: ["enabled", "disabled"],
             lightning_rod: ["enabled", "disabled"],
