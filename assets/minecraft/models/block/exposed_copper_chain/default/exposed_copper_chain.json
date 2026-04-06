@@ -1,0 +1,6 @@
+{
+  "parent": "block/template/chain/default/chain",
+  "textures": {
+    "texture": "block/exposed_copper_chain/default/exposed_copper_chain"
+  }
+}

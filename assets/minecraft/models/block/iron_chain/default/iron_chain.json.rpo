@@ -1,0 +1,7 @@
+{
+    condition: "style.chain.default",
+    fallbacks: [
+        "assets/minecraft/models/block/iron_chain/3d/iron_chain.json",
+        "assets/minecraft/models/block/iron_chain/accurate_3d/iron_chain.json"
+    ]
+}

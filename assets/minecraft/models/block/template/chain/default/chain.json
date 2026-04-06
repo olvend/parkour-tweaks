@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"particle": "block/chain/default/chain",
-		"all": "block/chain/default/chain"
+		"particle": "#texture",
+		"all": "#texture"
 	},
 	"elements": [
 		{

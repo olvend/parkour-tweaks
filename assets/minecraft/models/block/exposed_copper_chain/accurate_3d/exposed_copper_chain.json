@@ -1,0 +1,6 @@
+{
+  "parent": "block/template/chain/accurate_3d/chain",
+  "textures": {
+    "texture": "block/exposed_copper_chain/default/exposed_copper_chain"
+  }
+}
