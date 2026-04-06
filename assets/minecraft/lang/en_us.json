@@ -159,7 +159,7 @@
     "rpo.parkourtweaks.extra.hide_open_fence_gate.enabled": "§aEnabled",
     "rpo.parkourtweaks.extra.hide_open_fence_gate.disabled": "§cDisabled",
 
-    "rpo.parkourtweaks.extra.iron_bars": "3D Iron Bars",
-    "rpo.parkourtweaks.extra.iron_bars.enabled": "§aEnabled",
-    "rpo.parkourtweaks.extra.iron_bars.disabled": "§cDisabled"
+    "rpo.parkourtweaks.extra.bars": "3D Bars",
+    "rpo.parkourtweaks.extra.bars.enabled": "§aEnabled",
+    "rpo.parkourtweaks.extra.bars.disabled": "§cDisabled"
 }

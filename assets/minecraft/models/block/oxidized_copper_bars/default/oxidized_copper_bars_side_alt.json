@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:block/template/bars/default/bars_side_alt",
 	"textures": {
-		"bars": "block/iron_bars"
+		"bars": "block/oxidized_copper_bars"
 	}
 }

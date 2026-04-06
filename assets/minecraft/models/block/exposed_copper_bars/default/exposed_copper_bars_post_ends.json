@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:block/template/bars/default/bars_post_ends",
 	"textures": {
-		"bars": "block/iron_bars"
+		"bars": "block/exposed_copper_bars"
 	}
 }

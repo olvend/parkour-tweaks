@@ -44,7 +44,7 @@
         },
         extra: {
             hide_open_fence_gate: ["disabled", "enabled"],
-            iron_bars: ["enabled", "disabled"]
+            bars: ["enabled", "disabled"]
         }
     }
 }
