@@ -19,6 +19,7 @@
             end_rod: ["enabled", "disabled"],
             lightning_rod: ["enabled", "disabled"],
             chain: ["enabled", "disabled"],
+            bamboo: ["enabled", "disabled"],
             amethyst_cluster: ["enabled", "disabled"],
             chorus_plant: ["enabled", "disabled"],
             candle: ["enabled", "disabled"],

@@ -1,0 +1,36 @@
+{
+  "multipart": [
+    {
+      "apply": [
+        {
+          "model": "minecraft:block/bamboo/default/bamboo1"
+        },
+        {
+          "model": "minecraft:block/bamboo/default/bamboo2"
+        },
+        {
+          "model": "minecraft:block/bamboo/default/bamboo3"
+        },
+        {
+          "model": "minecraft:block/bamboo/default/bamboo4"
+        }
+      ]
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/bamboo_small_leaves"
+      },
+      "when": {
+        "leaves": "small"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/bamboo_large_leaves"
+      },
+      "when": {
+        "leaves": "large"
+      }
+    }
+  ]
+}

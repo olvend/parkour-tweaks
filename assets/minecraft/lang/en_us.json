@@ -64,6 +64,10 @@
     "rpo.parkourtweaks.features.chain.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.chain.disabled": "§cDisabled",
 
+    "rpo.parkourtweaks.features.bamboo": "Bamboo",
+    "rpo.parkourtweaks.features.bamboo.enabled": "§aEnabled",
+    "rpo.parkourtweaks.features.bamboo.disabled": "§cDisabled",
+
     "rpo.parkourtweaks.features.amethyst_cluster": "Amethyst Cluster",
     "rpo.parkourtweaks.features.amethyst_cluster.enabled": "§aEnabled",
     "rpo.parkourtweaks.features.amethyst_cluster.disabled": "§cDisabled",
