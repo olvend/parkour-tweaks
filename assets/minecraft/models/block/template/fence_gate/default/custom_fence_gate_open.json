@@ -117,7 +117,7 @@
 			"faces": {
 				"west":  { "uv": [ 10,  3, 14,  6 ], "texture": "#gate" },
 				"up":    { "uv": [ 10,  1, 14,  3 ], "rotation": 270, "texture": "#gate" },
-				"down":  { "uv": [ 10, 12, 14, 14 ], "rotation": 270, "texture": "#gate" }
+				"down":  { "uv": [ 10, 12, 14, 14 ], "rotation": 270, "texture": "#gate", "cullface": "up" }
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"faces": {
 				"east":  { "uv": [ 10,  9, 14, 12 ], "texture": "#gate" },
 				"up":    { "uv": [ 10,  1, 14,  3 ], "rotation": 270, "texture": "#gate" },
-				"down":  { "uv": [ 10, 12, 14, 14 ], "rotation": 270, "texture": "#gate" }
+				"down":  { "uv": [ 10, 12, 14, 14 ], "rotation": 270, "texture": "#gate", "cullface": "up" }
 			}
 		},
 		{
