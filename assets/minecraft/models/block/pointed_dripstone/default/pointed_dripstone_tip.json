@@ -13,7 +13,7 @@
 				"east":  { "texture": "#texture" },
 				"west":  { "texture": "#texture" },
 				"up":    { "texture": "#texture" },
-				"down":  { "texture": "#texture" }
+				"down":  { "texture": "#texture", "cullface": "down" }
 			}
 		}
 	]
